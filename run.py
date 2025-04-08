@@ -27,6 +27,7 @@ if __name__ == "__main__":
     network_simulation = config['global'].get('network_simulation', True)
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    os.makedirs("log", exist_ok=True)
     log_filename = f"log/{timestamp}_{dataset_name.lower()}_training.log"
     logger = init_logger(log_file=log_filename)
     log_configuration(logger, config)

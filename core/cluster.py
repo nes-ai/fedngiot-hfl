@@ -12,54 +12,45 @@ class ClusterManager:
             cluster_id = random.randint(0, self.num_clusters - 1)  
             self.clusters[cluster_id].append(client)
         return self.clusters
-
-    def assign_clients_delay(self):  # Network-aware clustering (mean_delay)
+    
+    def _slice_sorted_clients(self, sorted_clients):
+        cluster_size = len(sorted_clients) // self.num_clusters
+        clusters = {i: [] for i in range(self.num_clusters)}
+        for i in range(self.num_clusters):
+            start = i * cluster_size
+            end = (i + 1) * cluster_size if i < self.num_clusters - 1 else len(sorted_clients)
+            clusters[i] = sorted_clients[start:end]
+        return clusters
+    
+    def assign_clients_delay(self): # Network-aware clustering (mean_delay)
         sorted_clients = sorted(
             self.clients,
             key=lambda c: c.get_network_profile().get("mean_delay", 1.0)
         )
-
-        clusters = {i: [] for i in range(self.num_clusters)}
-        for i, client in enumerate(sorted_clients):
-            cluster_id = i % self.num_clusters
-            clusters[cluster_id].append(client)
-
-        self.clusters = clusters
+        self.clusters = self._slice_sorted_clients(sorted_clients)
         return self.clusters
 
-    def assign_clients_location(self, center=(0.5, 0.5)):  # Location-aware clustering
+    def assign_clients_location(self, center=(0.5, 0.5)): # Location-aware clustering
         sorted_clients = sorted(
             self.clients,
             key=lambda c: dist(c.location, center)
         )
-        clusters = {i: [] for i in range(self.num_clusters)}
-        for i, client in enumerate(sorted_clients):
-            cluster_id = i % self.num_clusters
-            clusters[cluster_id].append(client)
-        self.clusters = clusters
+        self.clusters = self._slice_sorted_clients(sorted_clients)
         return self.clusters
 
-    def assign_clients_compute(self):  # Compute power-based clustering
+    def assign_clients_compute(self): # Compute power-based clustering
         sorted_clients = sorted(
             self.clients,
             key=lambda c: c.compute_power,
             reverse=True
         )
-        clusters = {i: [] for i in range(self.num_clusters)}
-        for i, client in enumerate(sorted_clients):
-            cluster_id = i % self.num_clusters
-            clusters[cluster_id].append(client)
-        self.clusters = clusters
+        self.clusters = self._slice_sorted_clients(sorted_clients)
         return self.clusters
 
-    def assign_clients_compute_location(self, alpha=0.5, center=(0.5, 0.5)):  # Hybrid of compute power & location
+    def assign_clients_compute_location(self, alpha=0.5, center=(0.5, 0.5)): # Hybrid of compute power & location
         sorted_clients = sorted(
             self.clients,
             key=lambda c: alpha * dist(c.location, center) - (1 - alpha) * c.compute_power
         )
-        clusters = {i: [] for i in range(self.num_clusters)}
-        for i, client in enumerate(sorted_clients):
-            cluster_id = i % self.num_clusters
-            clusters[cluster_id].append(client)
-        self.clusters = clusters
+        self.clusters = self._slice_sorted_clients(sorted_clients)
         return self.clusters

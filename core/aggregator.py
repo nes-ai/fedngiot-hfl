@@ -46,6 +46,7 @@ def dual_mode_aggregate(clusters, intra='async', inter='sync', participation_rat
         powers = {cid: sum(c.compute_power for c in clients)/len(clients) for cid, clients in clusters.items() if clients}
         max_power = max(powers.values())
         min_power = min(powers.values())
+        mean_power = sum(powers.values()) / len(powers)
 
     # Intra-cluster aggregation
     for cluster_id, clients in clusters.items():
@@ -71,13 +72,14 @@ def dual_mode_aggregate(clusters, intra='async', inter='sync', participation_rat
             if cluster_model:
                 if compress_enabled:
                     avg_power = powers[cluster_id]
-                    norm_power = (avg_power - min_power) / (max_power - min_power + 1e-6)
-                    prune_ratio = 1.0 - norm_power * 0.5
-                    cluster_model = prune_model(cluster_model, pruning_rate=prune_ratio)
+                    relative_power = avg_power / (mean_power + 1e-6)
+                    prune_ratio = max(0.3, 1.0 - relative_power * 0.5)
 
+                    cluster_model = prune_model(cluster_model, pruning_rate=prune_ratio)
                     sparsity = compute_sparsity(cluster_model)
-                    print(f"[Cluster {cluster_id}] avg_power={avg_power:.2f}, norm_power={norm_power:.2f}, "
-                          f"prune_ratio={prune_ratio:.2f}, sparsity={sparsity:.2%}")
+
+                    print(f"[Cluster {cluster_id}] avg_power={avg_power:.2f}, mean_power={mean_power:.2f}, "
+                          f"relative_power={relative_power:.2f}, prune_ratio={prune_ratio:.2f}, sparsity={sparsity:.2%}")
 
                 cluster_models.append(cluster_model)
 

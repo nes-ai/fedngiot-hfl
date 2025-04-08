@@ -1,7 +1,7 @@
 global:
   num_rounds: 50
   model: 'CNN'
-  dataset: 'FashionMNIST'  # 'MNIST', 'FashionMNIST', 'CIFAR10'
+  dataset: 'MNIST'  # 'MNIST', 'FashionMNIST', 'CIFAR10'
   seed: 42          # Not using for now
   num_clients: 40
   partition: 'iid'  #  'iid', 'label_skew' (non-iid), 'dirichlet' (non-iid)

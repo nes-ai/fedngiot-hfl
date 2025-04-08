@@ -1,0 +1,8 @@
+*.log
+
+__pycache__/
+*.pyc
+
+data/*
+!data/dataset_loader.py
+!data/__init__.py

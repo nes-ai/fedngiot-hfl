@@ -1,0 +1,1002 @@
+[
+  {
+    "client_id": 0,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1747,
+    "drop_rate": 0.019,
+    "bandwidth": 954677473,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2627148961
+  },
+  {
+    "client_id": 1,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1796,
+    "drop_rate": 0.0151,
+    "bandwidth": 763726671,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2485873395
+  },
+  {
+    "client_id": 2,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1059,
+    "drop_rate": 0.0275,
+    "bandwidth": 922168563,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1094327793
+  },
+  {
+    "client_id": 3,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3327,
+    "drop_rate": 0.0676,
+    "bandwidth": 464366023,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 451931946
+  },
+  {
+    "client_id": 4,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0968,
+    "drop_rate": 0.0097,
+    "bandwidth": 1277021001,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3458789801
+  },
+  {
+    "client_id": 5,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1287,
+    "drop_rate": 0.0202,
+    "bandwidth": 659007211,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1959170650
+  },
+  {
+    "client_id": 6,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1686,
+    "drop_rate": 0.0232,
+    "bandwidth": 644402380,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2153125595
+  },
+  {
+    "client_id": 7,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.154,
+    "drop_rate": 0.0201,
+    "bandwidth": 935724805,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2315689755
+  },
+  {
+    "client_id": 8,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2639,
+    "drop_rate": 0.0654,
+    "bandwidth": 520500238,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 406581184
+  },
+  {
+    "client_id": 9,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0705,
+    "drop_rate": 0.0132,
+    "bandwidth": 1237414980,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3538001754
+  },
+  {
+    "client_id": 10,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.066,
+    "drop_rate": 0.0072,
+    "bandwidth": 1025024912,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4507642186
+  },
+  {
+    "client_id": 11,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1403,
+    "drop_rate": 0.0169,
+    "bandwidth": 927192048,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1961432884
+  },
+  {
+    "client_id": 12,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1739,
+    "drop_rate": 0.0278,
+    "bandwidth": 755371092,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2216991965
+  },
+  {
+    "client_id": 13,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3119,
+    "drop_rate": 0.0376,
+    "bandwidth": 544562538,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 559520998
+  },
+  {
+    "client_id": 14,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3479,
+    "drop_rate": 0.0329,
+    "bandwidth": 419345931,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 457347275
+  },
+  {
+    "client_id": 15,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.172,
+    "drop_rate": 0.0298,
+    "bandwidth": 735431794,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1568552186
+  },
+  {
+    "client_id": 16,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3109,
+    "drop_rate": 0.0562,
+    "bandwidth": 505496923,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 410097910
+  },
+  {
+    "client_id": 17,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1023,
+    "drop_rate": 0.0133,
+    "bandwidth": 701029593,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2786479620
+  },
+  {
+    "client_id": 18,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0825,
+    "drop_rate": 0.0097,
+    "bandwidth": 1381765255,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4771875095
+  },
+  {
+    "client_id": 19,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3026,
+    "drop_rate": 0.0349,
+    "bandwidth": 514353091,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 476635385
+  },
+  {
+    "client_id": 20,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0638,
+    "drop_rate": 0.012,
+    "bandwidth": 1219615054,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5776382553
+  },
+  {
+    "client_id": 21,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2585,
+    "drop_rate": 0.0641,
+    "bandwidth": 425179959,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 578747219
+  },
+  {
+    "client_id": 22,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.187,
+    "drop_rate": 0.0184,
+    "bandwidth": 650093116,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2197076471
+  },
+  {
+    "client_id": 23,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0621,
+    "drop_rate": 0.0055,
+    "bandwidth": 1185047299,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3439503255
+  },
+  {
+    "client_id": 24,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3328,
+    "drop_rate": 0.0512,
+    "bandwidth": 567806949,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 457122577
+  },
+  {
+    "client_id": 25,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1482,
+    "drop_rate": 0.0217,
+    "bandwidth": 885496354,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2283759480
+  },
+  {
+    "client_id": 26,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3025,
+    "drop_rate": 0.0553,
+    "bandwidth": 425124237,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 619781551
+  },
+  {
+    "client_id": 27,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1329,
+    "drop_rate": 0.0235,
+    "bandwidth": 606254425,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2677793375
+  },
+  {
+    "client_id": 28,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3376,
+    "drop_rate": 0.0508,
+    "bandwidth": 551453679,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 621364470
+  },
+  {
+    "client_id": 29,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1057,
+    "drop_rate": 0.0298,
+    "bandwidth": 616758742,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1849456460
+  },
+  {
+    "client_id": 30,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2971,
+    "drop_rate": 0.0317,
+    "bandwidth": 413409366,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 657115956
+  },
+  {
+    "client_id": 31,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2652,
+    "drop_rate": 0.0513,
+    "bandwidth": 511430758,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 415404222
+  },
+  {
+    "client_id": 32,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2742,
+    "drop_rate": 0.0618,
+    "bandwidth": 524562408,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 637117911
+  },
+  {
+    "client_id": 33,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3474,
+    "drop_rate": 0.0523,
+    "bandwidth": 407560177,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 446515608
+  },
+  {
+    "client_id": 34,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1253,
+    "drop_rate": 0.0243,
+    "bandwidth": 974617180,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2296814512
+  },
+  {
+    "client_id": 35,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1376,
+    "drop_rate": 0.0246,
+    "bandwidth": 716392037,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1803243771
+  },
+  {
+    "client_id": 36,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2694,
+    "drop_rate": 0.041,
+    "bandwidth": 540400935,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 604095195
+  },
+  {
+    "client_id": 37,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2715,
+    "drop_rate": 0.0513,
+    "bandwidth": 479877538,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 652051488
+  },
+  {
+    "client_id": 38,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0642,
+    "drop_rate": 0.0083,
+    "bandwidth": 1037834504,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4585907811
+  },
+  {
+    "client_id": 39,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.289,
+    "drop_rate": 0.0377,
+    "bandwidth": 469073237,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 471348577
+  },
+  {
+    "client_id": 40,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0992,
+    "drop_rate": 0.012,
+    "bandwidth": 1391395403,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4661775422
+  },
+  {
+    "client_id": 41,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0507,
+    "drop_rate": 0.0086,
+    "bandwidth": 1397036288,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4772228603
+  },
+  {
+    "client_id": 42,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1067,
+    "drop_rate": 0.0122,
+    "bandwidth": 602284976,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2886412847
+  },
+  {
+    "client_id": 43,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0685,
+    "drop_rate": 0.0102,
+    "bandwidth": 1154134450,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4112388972
+  },
+  {
+    "client_id": 44,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1702,
+    "drop_rate": 0.0119,
+    "bandwidth": 718600569,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1843342998
+  },
+  {
+    "client_id": 45,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0968,
+    "drop_rate": 0.0138,
+    "bandwidth": 1470412657,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5792613747
+  },
+  {
+    "client_id": 46,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3263,
+    "drop_rate": 0.0399,
+    "bandwidth": 414844033,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 479598102
+  },
+  {
+    "client_id": 47,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.302,
+    "drop_rate": 0.0334,
+    "bandwidth": 456093686,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 577081225
+  },
+  {
+    "client_id": 48,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1282,
+    "drop_rate": 0.0247,
+    "bandwidth": 898102791,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1890806185
+  },
+  {
+    "client_id": 49,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3483,
+    "drop_rate": 0.0533,
+    "bandwidth": 443118700,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 501574122
+  },
+  {
+    "client_id": 50,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1606,
+    "drop_rate": 0.0286,
+    "bandwidth": 718187224,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1364015072
+  },
+  {
+    "client_id": 51,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0805,
+    "drop_rate": 0.0128,
+    "bandwidth": 1216466097,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5451270428
+  },
+  {
+    "client_id": 52,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1862,
+    "drop_rate": 0.0175,
+    "bandwidth": 644555538,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1389108188
+  },
+  {
+    "client_id": 53,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0777,
+    "drop_rate": 0.0072,
+    "bandwidth": 1115661815,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4573579722
+  },
+  {
+    "client_id": 54,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1009,
+    "drop_rate": 0.0205,
+    "bandwidth": 915374202,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2066670650
+  },
+  {
+    "client_id": 55,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3143,
+    "drop_rate": 0.0579,
+    "bandwidth": 548804965,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 602936940
+  },
+  {
+    "client_id": 56,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0694,
+    "drop_rate": 0.0141,
+    "bandwidth": 1421033390,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5070373244
+  },
+  {
+    "client_id": 57,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0598,
+    "drop_rate": 0.0137,
+    "bandwidth": 1173522042,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4863031402
+  },
+  {
+    "client_id": 58,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.315,
+    "drop_rate": 0.0555,
+    "bandwidth": 537785876,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 609235089
+  },
+  {
+    "client_id": 59,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0861,
+    "drop_rate": 0.0115,
+    "bandwidth": 1089110112,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4459466516
+  },
+  {
+    "client_id": 60,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2874,
+    "drop_rate": 0.0618,
+    "bandwidth": 433556887,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 537631170
+  },
+  {
+    "client_id": 61,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2903,
+    "drop_rate": 0.0301,
+    "bandwidth": 436176549,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 451748474
+  },
+  {
+    "client_id": 62,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1843,
+    "drop_rate": 0.0265,
+    "bandwidth": 886050743,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1848336639
+  },
+  {
+    "client_id": 63,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3421,
+    "drop_rate": 0.0573,
+    "bandwidth": 579068421,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 611315840
+  },
+  {
+    "client_id": 64,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1014,
+    "drop_rate": 0.0256,
+    "bandwidth": 660113881,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2974813509
+  },
+  {
+    "client_id": 65,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3455,
+    "drop_rate": 0.0502,
+    "bandwidth": 506997250,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 613525133
+  },
+  {
+    "client_id": 66,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0759,
+    "drop_rate": 0.0075,
+    "bandwidth": 1077777672,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3259982133
+  },
+  {
+    "client_id": 67,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3138,
+    "drop_rate": 0.0393,
+    "bandwidth": 512096962,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 450115183
+  },
+  {
+    "client_id": 68,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0564,
+    "drop_rate": 0.0148,
+    "bandwidth": 1464495666,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5656411471
+  },
+  {
+    "client_id": 69,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3287,
+    "drop_rate": 0.0528,
+    "bandwidth": 540631212,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 465138616
+  },
+  {
+    "client_id": 70,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3455,
+    "drop_rate": 0.0465,
+    "bandwidth": 403452405,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 585684827
+  },
+  {
+    "client_id": 71,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1186,
+    "drop_rate": 0.0101,
+    "bandwidth": 937141713,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2964448540
+  },
+  {
+    "client_id": 72,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2798,
+    "drop_rate": 0.0533,
+    "bandwidth": 474089533,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 464304591
+  },
+  {
+    "client_id": 73,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1733,
+    "drop_rate": 0.0216,
+    "bandwidth": 746740606,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2871230134
+  },
+  {
+    "client_id": 74,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2551,
+    "drop_rate": 0.0491,
+    "bandwidth": 512699540,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 528488440
+  },
+  {
+    "client_id": 75,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0739,
+    "drop_rate": 0.0103,
+    "bandwidth": 1251604699,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4812465368
+  },
+  {
+    "client_id": 76,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0657,
+    "drop_rate": 0.0077,
+    "bandwidth": 1485890717,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5070205535
+  },
+  {
+    "client_id": 77,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1565,
+    "drop_rate": 0.0148,
+    "bandwidth": 767686429,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1038571024
+  },
+  {
+    "client_id": 78,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0737,
+    "drop_rate": 0.0119,
+    "bandwidth": 1496189678,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3072881639
+  },
+  {
+    "client_id": 79,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0774,
+    "drop_rate": 0.0065,
+    "bandwidth": 1388323413,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3068628370
+  },
+  {
+    "client_id": 80,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.134,
+    "drop_rate": 0.0287,
+    "bandwidth": 794522658,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1591580340
+  },
+  {
+    "client_id": 81,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0541,
+    "drop_rate": 0.0147,
+    "bandwidth": 1120547167,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5499064201
+  },
+  {
+    "client_id": 82,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0944,
+    "drop_rate": 0.0087,
+    "bandwidth": 1422131203,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4827568110
+  },
+  {
+    "client_id": 83,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.3103,
+    "drop_rate": 0.0695,
+    "bandwidth": 537133700,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 589604261
+  },
+  {
+    "client_id": 84,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2948,
+    "drop_rate": 0.0401,
+    "bandwidth": 516771843,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 422217034
+  },
+  {
+    "client_id": 85,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1496,
+    "drop_rate": 0.0225,
+    "bandwidth": 734045888,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1375958131
+  },
+  {
+    "client_id": 86,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.054,
+    "drop_rate": 0.0062,
+    "bandwidth": 1374072963,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5145150935
+  },
+  {
+    "client_id": 87,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0678,
+    "drop_rate": 0.0106,
+    "bandwidth": 1331117752,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3363493092
+  },
+  {
+    "client_id": 88,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0558,
+    "drop_rate": 0.0134,
+    "bandwidth": 1268915259,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3341346427
+  },
+  {
+    "client_id": 89,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.191,
+    "drop_rate": 0.0297,
+    "bandwidth": 729694665,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2686620490
+  },
+  {
+    "client_id": 90,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1626,
+    "drop_rate": 0.012,
+    "bandwidth": 636453764,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2320320404
+  },
+  {
+    "client_id": 91,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1721,
+    "drop_rate": 0.0192,
+    "bandwidth": 684124121,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 2905195641
+  },
+  {
+    "client_id": 92,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0773,
+    "drop_rate": 0.0145,
+    "bandwidth": 1419042265,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 3679892653
+  },
+  {
+    "client_id": 93,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1006,
+    "drop_rate": 0.0199,
+    "bandwidth": 961689905,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1695148237
+  },
+  {
+    "client_id": 94,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0656,
+    "drop_rate": 0.0132,
+    "bandwidth": 1418799358,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4518248733
+  },
+  {
+    "client_id": 95,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1138,
+    "drop_rate": 0.0298,
+    "bandwidth": 928943035,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1611230176
+  },
+  {
+    "client_id": 96,
+    "carrier_freq": 7.8,
+    "mean_delay": 0.1087,
+    "drop_rate": 0.0254,
+    "bandwidth": 744558583,
+    "antenna_count": 8,
+    "spatial_dof": 4,
+    "rate_capacity": 1733037426
+  },
+  {
+    "client_id": 97,
+    "carrier_freq": 3.5,
+    "mean_delay": 0.2897,
+    "drop_rate": 0.0692,
+    "bandwidth": 489827518,
+    "antenna_count": 4,
+    "spatial_dof": 2,
+    "rate_capacity": 644041383
+  },
+  {
+    "client_id": 98,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0768,
+    "drop_rate": 0.0131,
+    "bandwidth": 1232445818,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 4606343372
+  },
+  {
+    "client_id": 99,
+    "carrier_freq": 15.0,
+    "mean_delay": 0.0592,
+    "drop_rate": 0.0053,
+    "bandwidth": 1027885564,
+    "antenna_count": 16,
+    "spatial_dof": 8,
+    "rate_capacity": 5276965590
+  }
+]

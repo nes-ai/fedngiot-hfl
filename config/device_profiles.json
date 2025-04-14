@@ -2,801 +2,801 @@
   {
     "client_id": 0,
     "location": [
-      0.7561,
-      0.439
-    ],
-    "compute_power": 8.16
-  },
-  {
-    "client_id": 1,
-    "location": [
-      0.3802,
-      0.7082
-    ],
-    "compute_power": 3.62
-  },
-  {
-    "client_id": 2,
-    "location": [
-      0.4988,
-      0.4434
-    ],
-    "compute_power": 5.26
-  },
-  {
-    "client_id": 3,
-    "location": [
-      0.0242,
-      0.637
-    ],
-    "compute_power": 2.63
-  },
-  {
-    "client_id": 4,
-    "location": [
-      0.6383,
-      0.0799
-    ],
-    "compute_power": 7.23
-  },
-  {
-    "client_id": 5,
-    "location": [
-      0.5148,
-      0.4303
-    ],
-    "compute_power": 3.65
-  },
-  {
-    "client_id": 6,
-    "location": [
-      0.4103,
-      0.6023
-    ],
-    "compute_power": 9.22
-  },
-  {
-    "client_id": 7,
-    "location": [
-      0.2779,
-      0.4203
-    ],
-    "compute_power": 3.04
-  },
-  {
-    "client_id": 8,
-    "location": [
-      0.117,
-      0.3813
-    ],
-    "compute_power": 7.96
-  },
-  {
-    "client_id": 9,
-    "location": [
-      0.1496,
-      0.9122
-    ],
-    "compute_power": 9.17
-  },
-  {
-    "client_id": 10,
-    "location": [
-      0.1275,
-      0.8055
-    ],
-    "compute_power": 4.64
-  },
-  {
-    "client_id": 11,
-    "location": [
-      0.5581,
-      0.7535
-    ],
-    "compute_power": 2.14
-  },
-  {
-    "client_id": 12,
-    "location": [
-      0.4589,
-      0.5265
-    ],
-    "compute_power": 2.04
-  },
-  {
-    "client_id": 13,
-    "location": [
-      0.0274,
-      0.4239
-    ],
-    "compute_power": 4.2
-  },
-  {
-    "client_id": 14,
-    "location": [
-      0.3996,
-      0.0582
-    ],
-    "compute_power": 2.92
-  },
-  {
-    "client_id": 15,
-    "location": [
-      0.8966,
-      0.926
-    ],
-    "compute_power": 1.6
-  },
-  {
-    "client_id": 16,
-    "location": [
-      0.6225,
-      0.1949
-    ],
-    "compute_power": 9.0
-  },
-  {
-    "client_id": 17,
-    "location": [
-      0.4366,
-      0.33
-    ],
-    "compute_power": 4.48
-  },
-  {
-    "client_id": 18,
-    "location": [
-      0.8026,
-      0.3437
-    ],
-    "compute_power": 7.35
-  },
-  {
-    "client_id": 19,
-    "location": [
-      0.6274,
-      0.3038
-    ],
-    "compute_power": 6.25
-  },
-  {
-    "client_id": 20,
-    "location": [
-      0.9937,
-      0.6517
-    ],
-    "compute_power": 1.73
-  },
-  {
-    "client_id": 21,
-    "location": [
-      0.0628,
-      0.9341
-    ],
-    "compute_power": 9.98
-  },
-  {
-    "client_id": 22,
-    "location": [
-      0.587,
-      0.9295
-    ],
-    "compute_power": 9.74
-  },
-  {
-    "client_id": 23,
-    "location": [
-      0.7612,
-      0.9738
-    ],
-    "compute_power": 8.2
-  },
-  {
-    "client_id": 24,
-    "location": [
-      0.6451,
-      0.6033
-    ],
-    "compute_power": 2.96
-  },
-  {
-    "client_id": 25,
-    "location": [
-      0.9436,
-      0.492
-    ],
-    "compute_power": 8.7
-  },
-  {
-    "client_id": 26,
-    "location": [
-      0.9953,
-      0.0071
-    ],
-    "compute_power": 6.84
-  },
-  {
-    "client_id": 27,
-    "location": [
-      0.0309,
-      0.2606
-    ],
-    "compute_power": 3.53
-  },
-  {
-    "client_id": 28,
-    "location": [
-      0.6625,
-      0.3765
-    ],
-    "compute_power": 6.02
-  },
-  {
-    "client_id": 29,
-    "location": [
-      0.4761,
-      0.8422
-    ],
-    "compute_power": 2.11
-  },
-  {
-    "client_id": 30,
-    "location": [
-      0.9119,
-      0.6865
-    ],
-    "compute_power": 4.98
-  },
-  {
-    "client_id": 31,
-    "location": [
-      0.2746,
-      0.81
-    ],
-    "compute_power": 1.15
-  },
-  {
-    "client_id": 32,
-    "location": [
-      0.0303,
-      0.9594
-    ],
-    "compute_power": 7.72
-  },
-  {
-    "client_id": 33,
-    "location": [
-      0.9147,
-      0.84
-    ],
-    "compute_power": 2.58
-  },
-  {
-    "client_id": 34,
-    "location": [
-      0.8349,
-      0.7742
-    ],
-    "compute_power": 7.66
-  },
-  {
-    "client_id": 35,
-    "location": [
-      0.6632,
-      0.4659
-    ],
-    "compute_power": 1.21
-  },
-  {
-    "client_id": 36,
-    "location": [
-      0.3715,
-      0.7194
-    ],
-    "compute_power": 3.82
-  },
-  {
-    "client_id": 37,
-    "location": [
-      0.8696,
-      0.0742
-    ],
-    "compute_power": 7.94
-  },
-  {
-    "client_id": 38,
-    "location": [
-      0.7126,
-      0.8485
-    ],
-    "compute_power": 5.6
-  },
-  {
-    "client_id": 39,
-    "location": [
-      0.7442,
-      0.823
-    ],
-    "compute_power": 5.58
-  },
-  {
-    "client_id": 40,
-    "location": [
-      0.2656,
-      0.3454
-    ],
-    "compute_power": 4.67
-  },
-  {
-    "client_id": 41,
-    "location": [
-      0.1929,
-      0.0779
-    ],
-    "compute_power": 4.44
-  },
-  {
-    "client_id": 42,
-    "location": [
-      0.3412,
-      0.7933
-    ],
-    "compute_power": 3.01
-  },
-  {
-    "client_id": 43,
-    "location": [
-      0.1533,
-      0.5249
-    ],
-    "compute_power": 8.58
-  },
-  {
-    "client_id": 44,
-    "location": [
-      0.692,
-      0.787
-    ],
-    "compute_power": 3.9
-  },
-  {
-    "client_id": 45,
-    "location": [
-      0.8873,
-      0.6252
-    ],
-    "compute_power": 4.64
-  },
-  {
-    "client_id": 46,
-    "location": [
-      0.9145,
-      0.5555
-    ],
-    "compute_power": 2.54
-  },
-  {
-    "client_id": 47,
-    "location": [
-      0.9925,
-      0.0438
-    ],
-    "compute_power": 9.61
-  },
-  {
-    "client_id": 48,
-    "location": [
-      0.8084,
-      0.2281
-    ],
-    "compute_power": 6.73
-  },
-  {
-    "client_id": 49,
-    "location": [
-      0.4445,
-      0.6667
-    ],
-    "compute_power": 6.79
-  },
-  {
-    "client_id": 50,
-    "location": [
-      0.129,
-      0.9275
-    ],
-    "compute_power": 5.61
-  },
-  {
-    "client_id": 51,
-    "location": [
-      0.8484,
-      0.475
-    ],
-    "compute_power": 4.3
-  },
-  {
-    "client_id": 52,
-    "location": [
-      0.305,
-      0.8018
-    ],
-    "compute_power": 2.38
-  },
-  {
-    "client_id": 53,
-    "location": [
-      0.5508,
-      0.9671
-    ],
-    "compute_power": 4.65
-  },
-  {
-    "client_id": 54,
-    "location": [
-      0.4545,
-      0.8837
-    ],
-    "compute_power": 4.2
-  },
-  {
-    "client_id": 55,
-    "location": [
-      0.9533,
-      0.8843
-    ],
-    "compute_power": 9.48
-  },
-  {
-    "client_id": 56,
-    "location": [
-      0.0686,
-      0.2137
-    ],
-    "compute_power": 8.43
-  },
-  {
-    "client_id": 57,
-    "location": [
-      0.8734,
-      0.8481
-    ],
-    "compute_power": 4.4
-  },
-  {
-    "client_id": 58,
-    "location": [
-      0.896,
-      0.9822
+      0.6189,
+      0.949
     ],
     "compute_power": 7.41
   },
   {
-    "client_id": 59,
+    "client_id": 1,
     "location": [
-      0.7297,
-      0.898
+      0.2041,
+      0.7864
     ],
-    "compute_power": 8.49
+    "compute_power": 3.34
   },
   {
-    "client_id": 60,
+    "client_id": 2,
     "location": [
-      0.4752,
-      0.1612
+      0.6885,
+      0.5464
     ],
-    "compute_power": 2.92
+    "compute_power": 7.26
   },
   {
-    "client_id": 61,
+    "client_id": 3,
     "location": [
-      0.3428,
-      0.5437
+      0.4392,
+      0.546
     ],
-    "compute_power": 5.39
+    "compute_power": 7.12
   },
   {
-    "client_id": 62,
+    "client_id": 4,
     "location": [
-      0.5203,
-      0.5357
+      0.6424,
+      0.1757
     ],
-    "compute_power": 8.18
+    "compute_power": 2.33
   },
   {
-    "client_id": 63,
+    "client_id": 5,
     "location": [
-      0.4544,
-      0.649
+      0.876,
+      0.4774
     ],
-    "compute_power": 2.49
+    "compute_power": 9.2
   },
   {
-    "client_id": 64,
+    "client_id": 6,
     "location": [
-      0.3002,
-      0.8224
+      0.3384,
+      0.6922
     ],
-    "compute_power": 2.56
+    "compute_power": 5.77
   },
   {
-    "client_id": 65,
+    "client_id": 7,
     "location": [
-      0.9482,
-      0.3339
+      0.4024,
+      0.5864
     ],
-    "compute_power": 8.36
+    "compute_power": 2.36
   },
   {
-    "client_id": 66,
+    "client_id": 8,
     "location": [
-      0.4329,
-      0.4178
+      0.2744,
+      0.275
     ],
-    "compute_power": 3.69
+    "compute_power": 3.15
   },
   {
-    "client_id": 67,
+    "client_id": 9,
     "location": [
-      0.7349,
-      0.5897
+      0.8151,
+      0.7022
     ],
-    "compute_power": 2.45
+    "compute_power": 4.91
   },
   {
-    "client_id": 68,
+    "client_id": 10,
     "location": [
-      0.0295,
-      0.1093
+      0.5029,
+      0.8233
     ],
-    "compute_power": 1.05
+    "compute_power": 4.29
   },
   {
-    "client_id": 69,
+    "client_id": 11,
     "location": [
-      0.177,
-      0.0584
+      0.2465,
+      0.7671
     ],
-    "compute_power": 7.18
+    "compute_power": 2.85
   },
   {
-    "client_id": 70,
+    "client_id": 12,
     "location": [
-      0.8398,
-      0.1788
+      0.1349,
+      0.0095
     ],
-    "compute_power": 7.24
+    "compute_power": 7.17
   },
   {
-    "client_id": 71,
+    "client_id": 13,
     "location": [
-      0.1769,
-      0.2414
+      0.4088,
+      0.4063
+    ],
+    "compute_power": 5.12
+  },
+  {
+    "client_id": 14,
+    "location": [
+      0.2175,
+      0.3884
+    ],
+    "compute_power": 4.87
+  },
+  {
+    "client_id": 15,
+    "location": [
+      0.3283,
+      0.3517
+    ],
+    "compute_power": 2.42
+  },
+  {
+    "client_id": 16,
+    "location": [
+      0.9549,
+      0.341
+    ],
+    "compute_power": 9.48
+  },
+  {
+    "client_id": 17,
+    "location": [
+      0.8146,
+      0.7141
+    ],
+    "compute_power": 9.41
+  },
+  {
+    "client_id": 18,
+    "location": [
+      0.6638,
+      0.2909
+    ],
+    "compute_power": 1.73
+  },
+  {
+    "client_id": 19,
+    "location": [
+      0.5722,
+      0.2913
+    ],
+    "compute_power": 2.3
+  },
+  {
+    "client_id": 20,
+    "location": [
+      0.5281,
+      0.4779
+    ],
+    "compute_power": 2.23
+  },
+  {
+    "client_id": 21,
+    "location": [
+      0.5092,
+      0.7003
+    ],
+    "compute_power": 4.02
+  },
+  {
+    "client_id": 22,
+    "location": [
+      0.1008,
+      0.8125
+    ],
+    "compute_power": 3.14
+  },
+  {
+    "client_id": 23,
+    "location": [
+      0.2621,
+      0.0588
+    ],
+    "compute_power": 6.16
+  },
+  {
+    "client_id": 24,
+    "location": [
+      0.9991,
+      0.3875
+    ],
+    "compute_power": 4.24
+  },
+  {
+    "client_id": 25,
+    "location": [
+      0.0949,
+      0.9275
+    ],
+    "compute_power": 8.39
+  },
+  {
+    "client_id": 26,
+    "location": [
+      0.2572,
+      0.0222
+    ],
+    "compute_power": 4.4
+  },
+  {
+    "client_id": 27,
+    "location": [
+      0.0432,
+      0.6256
+    ],
+    "compute_power": 2.64
+  },
+  {
+    "client_id": 28,
+    "location": [
+      0.8736,
+      0.3479
+    ],
+    "compute_power": 1.95
+  },
+  {
+    "client_id": 29,
+    "location": [
+      0.8882,
+      0.1087
+    ],
+    "compute_power": 3.81
+  },
+  {
+    "client_id": 30,
+    "location": [
+      0.8749,
+      0.7444
+    ],
+    "compute_power": 3.9
+  },
+  {
+    "client_id": 31,
+    "location": [
+      0.7611,
+      0.6511
+    ],
+    "compute_power": 7.08
+  },
+  {
+    "client_id": 32,
+    "location": [
+      0.9572,
+      0.8433
+    ],
+    "compute_power": 4.04
+  },
+  {
+    "client_id": 33,
+    "location": [
+      0.9617,
+      0.6829
+    ],
+    "compute_power": 6.46
+  },
+  {
+    "client_id": 34,
+    "location": [
+      0.6915,
+      0.6475
+    ],
+    "compute_power": 5.88
+  },
+  {
+    "client_id": 35,
+    "location": [
+      0.3441,
+      0.3282
+    ],
+    "compute_power": 3.38
+  },
+  {
+    "client_id": 36,
+    "location": [
+      0.4185,
+      0.4763
+    ],
+    "compute_power": 6.79
+  },
+  {
+    "client_id": 37,
+    "location": [
+      0.1785,
+      0.8835
+    ],
+    "compute_power": 2.8
+  },
+  {
+    "client_id": 38,
+    "location": [
+      0.395,
+      0.7099
+    ],
+    "compute_power": 9.82
+  },
+  {
+    "client_id": 39,
+    "location": [
+      0.7191,
+      0.9479
     ],
     "compute_power": 3.33
   },
   {
-    "client_id": 72,
+    "client_id": 40,
     "location": [
-      0.6204,
-      0.2907
+      0.9166,
+      0.5235
     ],
-    "compute_power": 4.33
+    "compute_power": 1.17
   },
   {
-    "client_id": 73,
+    "client_id": 41,
     "location": [
-      0.1856,
-      0.4552
-    ],
-    "compute_power": 3.79
-  },
-  {
-    "client_id": 74,
-    "location": [
-      0.3818,
-      0.1958
-    ],
-    "compute_power": 1.54
-  },
-  {
-    "client_id": 75,
-    "location": [
-      0.279,
-      0.0177
-    ],
-    "compute_power": 2.27
-  },
-  {
-    "client_id": 76,
-    "location": [
-      0.2182,
-      0.8139
-    ],
-    "compute_power": 5.19
-  },
-  {
-    "client_id": 77,
-    "location": [
-      0.6848,
-      0.518
-    ],
-    "compute_power": 7.22
-  },
-  {
-    "client_id": 78,
-    "location": [
-      0.5771,
-      0.9981
-    ],
-    "compute_power": 5.72
-  },
-  {
-    "client_id": 79,
-    "location": [
-      0.2315,
-      0.1252
-    ],
-    "compute_power": 9.23
-  },
-  {
-    "client_id": 80,
-    "location": [
-      0.9649,
-      0.7676
-    ],
-    "compute_power": 2.82
-  },
-  {
-    "client_id": 81,
-    "location": [
-      0.3998,
-      0.4915
+      0.4495,
+      0.8417
     ],
     "compute_power": 4.17
   },
   {
-    "client_id": 82,
+    "client_id": 42,
     "location": [
-      0.9591,
-      0.1316
+      0.9475,
+      0.9068
     ],
-    "compute_power": 9.17
+    "compute_power": 9.1
   },
   {
-    "client_id": 83,
+    "client_id": 43,
     "location": [
-      0.286,
-      0.592
+      0.8238,
+      0.2215
     ],
-    "compute_power": 7.55
+    "compute_power": 3.09
   },
   {
-    "client_id": 84,
+    "client_id": 44,
     "location": [
-      0.1893,
-      0.7783
+      0.2239,
+      0.8853
     ],
-    "compute_power": 5.01
+    "compute_power": 1.29
   },
   {
-    "client_id": 85,
+    "client_id": 45,
     "location": [
-      0.8932,
-      0.5246
+      0.4311,
+      0.4816
     ],
-    "compute_power": 2.02
+    "compute_power": 3.48
   },
   {
-    "client_id": 86,
+    "client_id": 46,
     "location": [
-      0.4925,
-      0.9857
+      0.5457,
+      0.9117
     ],
-    "compute_power": 4.89
+    "compute_power": 4.6
   },
   {
-    "client_id": 87,
+    "client_id": 47,
     "location": [
-      0.7842,
-      0.2546
+      0.3698,
+      0.7658
     ],
-    "compute_power": 4.42
+    "compute_power": 3.43
   },
   {
-    "client_id": 88,
+    "client_id": 48,
     "location": [
-      0.2122,
-      0.1342
+      0.1496,
+      0.4351
     ],
-    "compute_power": 1.21
+    "compute_power": 1.69
   },
   {
-    "client_id": 89,
+    "client_id": 49,
     "location": [
-      0.7986,
-      0.257
+      0.1558,
+      0.5798
     ],
-    "compute_power": 8.73
+    "compute_power": 2.75
   },
   {
-    "client_id": 90,
+    "client_id": 50,
     "location": [
-      0.6394,
-      0.7324
+      0.9725,
+      0.6826
     ],
-    "compute_power": 7.1
+    "compute_power": 3.39
   },
   {
-    "client_id": 91,
+    "client_id": 51,
     "location": [
-      0.2268,
-      0.5849
+      0.8657,
+      0.5633
+    ],
+    "compute_power": 7.62
+  },
+  {
+    "client_id": 52,
+    "location": [
+      0.8819,
+      0.351
+    ],
+    "compute_power": 3.35
+  },
+  {
+    "client_id": 53,
+    "location": [
+      0.3133,
+      0.5758
+    ],
+    "compute_power": 1.83
+  },
+  {
+    "client_id": 54,
+    "location": [
+      0.3489,
+      0.4833
+    ],
+    "compute_power": 1.16
+  },
+  {
+    "client_id": 55,
+    "location": [
+      0.7559,
+      0.7913
+    ],
+    "compute_power": 7.39
+  },
+  {
+    "client_id": 56,
+    "location": [
+      0.2234,
+      0.6738
+    ],
+    "compute_power": 5.5
+  },
+  {
+    "client_id": 57,
+    "location": [
+      0.4438,
+      0.9622
+    ],
+    "compute_power": 1.22
+  },
+  {
+    "client_id": 58,
+    "location": [
+      0.8391,
+      0.9202
+    ],
+    "compute_power": 3.38
+  },
+  {
+    "client_id": 59,
+    "location": [
+      0.2513,
+      0.773
+    ],
+    "compute_power": 6.07
+  },
+  {
+    "client_id": 60,
+    "location": [
+      0.8307,
+      0.1568
     ],
     "compute_power": 7.77
   },
   {
-    "client_id": 92,
+    "client_id": 61,
     "location": [
-      0.0998,
-      0.7155
+      0.9991,
+      0.4059
     ],
-    "compute_power": 8.62
+    "compute_power": 8.85
   },
   {
-    "client_id": 93,
+    "client_id": 62,
     "location": [
-      0.9504,
-      0.2067
+      0.3356,
+      0.81
     ],
-    "compute_power": 8.82
+    "compute_power": 9.39
   },
   {
-    "client_id": 94,
+    "client_id": 63,
     "location": [
-      0.5548,
-      0.7395
+      0.362,
+      0.0983
+    ],
+    "compute_power": 9.3
+  },
+  {
+    "client_id": 64,
+    "location": [
+      0.5191,
+      0.0317
+    ],
+    "compute_power": 9.96
+  },
+  {
+    "client_id": 65,
+    "location": [
+      0.3232,
+      0.5887
+    ],
+    "compute_power": 3.88
+  },
+  {
+    "client_id": 66,
+    "location": [
+      0.5002,
+      0.4533
+    ],
+    "compute_power": 8.38
+  },
+  {
+    "client_id": 67,
+    "location": [
+      0.0833,
+      0.1566
+    ],
+    "compute_power": 4.62
+  },
+  {
+    "client_id": 68,
+    "location": [
+      0.2254,
+      0.1837
+    ],
+    "compute_power": 3.07
+  },
+  {
+    "client_id": 69,
+    "location": [
+      0.6668,
+      0.2108
+    ],
+    "compute_power": 8.75
+  },
+  {
+    "client_id": 70,
+    "location": [
+      0.5936,
+      0.8707
+    ],
+    "compute_power": 4.11
+  },
+  {
+    "client_id": 71,
+    "location": [
+      0.0079,
+      0.7818
+    ],
+    "compute_power": 5.43
+  },
+  {
+    "client_id": 72,
+    "location": [
+      0.9515,
+      0.4279
+    ],
+    "compute_power": 8.67
+  },
+  {
+    "client_id": 73,
+    "location": [
+      0.3945,
+      0.3889
+    ],
+    "compute_power": 1.78
+  },
+  {
+    "client_id": 74,
+    "location": [
+      0.5287,
+      0.1604
+    ],
+    "compute_power": 6.77
+  },
+  {
+    "client_id": 75,
+    "location": [
+      0.8688,
+      0.1167
+    ],
+    "compute_power": 1.17
+  },
+  {
+    "client_id": 76,
+    "location": [
+      0.3099,
+      0.3133
+    ],
+    "compute_power": 5.8
+  },
+  {
+    "client_id": 77,
+    "location": [
+      0.1146,
+      0.6783
+    ],
+    "compute_power": 3.84
+  },
+  {
+    "client_id": 78,
+    "location": [
+      0.6317,
+      0.515
+    ],
+    "compute_power": 9.18
+  },
+  {
+    "client_id": 79,
+    "location": [
+      0.1081,
+      0.4361
+    ],
+    "compute_power": 2.08
+  },
+  {
+    "client_id": 80,
+    "location": [
+      0.3214,
+      0.0912
+    ],
+    "compute_power": 5.41
+  },
+  {
+    "client_id": 81,
+    "location": [
+      0.4018,
+      0.3722
+    ],
+    "compute_power": 4.41
+  },
+  {
+    "client_id": 82,
+    "location": [
+      0.7805,
+      0.0772
+    ],
+    "compute_power": 2.15
+  },
+  {
+    "client_id": 83,
+    "location": [
+      0.1474,
+      0.9064
+    ],
+    "compute_power": 7.64
+  },
+  {
+    "client_id": 84,
+    "location": [
+      0.2804,
+      0.8203
+    ],
+    "compute_power": 1.66
+  },
+  {
+    "client_id": 85,
+    "location": [
+      0.2081,
+      0.0127
+    ],
+    "compute_power": 4.8
+  },
+  {
+    "client_id": 86,
+    "location": [
+      0.3311,
+      0.4508
+    ],
+    "compute_power": 6.62
+  },
+  {
+    "client_id": 87,
+    "location": [
+      0.0352,
+      0.0079
+    ],
+    "compute_power": 5.26
+  },
+  {
+    "client_id": 88,
+    "location": [
+      0.6591,
+      0.0179
     ],
     "compute_power": 8.71
   },
   {
+    "client_id": 89,
+    "location": [
+      0.1572,
+      0.4965
+    ],
+    "compute_power": 6.72
+  },
+  {
+    "client_id": 90,
+    "location": [
+      0.6482,
+      0.1708
+    ],
+    "compute_power": 9.27
+  },
+  {
+    "client_id": 91,
+    "location": [
+      0.6228,
+      0.641
+    ],
+    "compute_power": 7.47
+  },
+  {
+    "client_id": 92,
+    "location": [
+      0.9414,
+      0.2532
+    ],
+    "compute_power": 4.85
+  },
+  {
+    "client_id": 93,
+    "location": [
+      0.2172,
+      0.8739
+    ],
+    "compute_power": 3.11
+  },
+  {
+    "client_id": 94,
+    "location": [
+      0.9526,
+      0.5485
+    ],
+    "compute_power": 5.45
+  },
+  {
     "client_id": 95,
     "location": [
-      0.1779,
-      0.2726
+      0.395,
+      0.754
     ],
-    "compute_power": 5.31
+    "compute_power": 8.06
   },
   {
     "client_id": 96,
     "location": [
-      0.3167,
-      0.6822
+      0.7306,
+      0.6623
     ],
-    "compute_power": 2.02
+    "compute_power": 2.52
   },
   {
     "client_id": 97,
     "location": [
-      0.1184,
-      0.9585
+      0.2109,
+      0.3765
     ],
-    "compute_power": 8.19
+    "compute_power": 4.86
   },
   {
     "client_id": 98,
     "location": [
-      0.2284,
-      0.114
+      0.6618,
+      0.1151
     ],
-    "compute_power": 1.68
+    "compute_power": 9.98
   },
   {
     "client_id": 99,
     "location": [
-      0.4157,
-      0.0
+      0.2533,
+      0.4443
     ],
-    "compute_power": 1.72
+    "compute_power": 5.73
   }
 ]

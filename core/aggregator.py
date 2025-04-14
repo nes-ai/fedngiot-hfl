@@ -16,7 +16,7 @@ def fedmedian(models):
     median_model = {k: torch.median(v, dim=0).values for k, v in stacked.items()}
     return median_model
 
-def fedprox(models, mu=0.01, global_model=None): # FedProx는 로컬 학습 시 사용하는 방식이지만, 여기선 global model과 proximity 반영
+def fedprox(models, mu=0.01, global_model=None): # Temporal function (will be removed)
     if not models or global_model is None:
         return fedavg(models)
 

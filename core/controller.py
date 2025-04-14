@@ -1,7 +1,7 @@
+import time
 from utils.metrics import accuracy, precision, recall, f1
 from core.aggregator import fedavg, dual_mode_aggregate
 from core.cluster import ClusterManager
-from core.model_compression import prune_model ########## Need to make compression after adding device location and capability
 
 class FLController:
     def __init__(self, config, logger, test_loader, device):
@@ -12,11 +12,13 @@ class FLController:
         self.device = device
 
     def run(self):
+
+        # Clustering
         cluster_mgr = ClusterManager(self.clients, self.config['clustering']['num_clusters'])
         clusters = cluster_mgr.assign_clients_delay() # Option: assign_clients_random, assign_clients_delay
 
         strategy = self.config['clustering'].get('strategy', 'random')
-        criteria = self.config['clustering'].get('cluster_criteria', [])
+        criteria = self.config['clustering'].get('cluster_criteria', [])        
         
         if strategy == 'random':
             clusters = cluster_mgr.assign_clients_random()
@@ -36,8 +38,10 @@ class FLController:
             self.logger.warning("Unknown clustering strategy. Using random assignment.")
             clusters = cluster_mgr.assign_clients_random()
         
+        # Training and Aggregation
         global_model = None
-        for rnd in range(self.config['global']['num_rounds']):            
+        for rnd in range(self.config['global']['num_rounds']):
+            start = time.time()
             global_model = dual_mode_aggregate(
                 clusters,
                 intra=self.config['aggregation'].get('intra_cluster', 'sync'),
@@ -45,6 +49,7 @@ class FLController:
                 participation_ratio=self.config['aggregation'].get('participation_ratio', 0.6),
                 compress_enabled=self.config['global'].get('model_compression', False)
             )
+            duration = time.time() - start
 
             for client in self.clients:
                 client.model.load_state_dict(global_model)
@@ -54,4 +59,4 @@ class FLController:
             rec = recall(self.clients[0].model.to(self.device), self.test_loader, self.device)
             f1s = f1(self.clients[0].model.to(self.device), self.test_loader, self.device)
 
-            self.logger.info(f"Round {rnd+1} - Acc: {acc:.4f}, Prec: {prec:.4f}, Recall: {rec:.4f}, F1: {f1s:.4f}")
+            self.logger.info(f"Round {rnd+1} - Acc: {acc:.4f}, Prec: {prec:.4f}, Recall: {rec:.4f}, F1: {f1s:.4f}, Time:{duration:.2f}")

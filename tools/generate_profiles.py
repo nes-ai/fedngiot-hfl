@@ -36,7 +36,7 @@ bands = [
     }
 ]
 
-# 위치 및 연산 능력 범위 정의
+# device capability and location
 locations = [
     (round(random.uniform(0.0, 1.0), 4), round(random.uniform(0.0, 1.0), 4)) for _ in range(100)
 ]
@@ -44,11 +44,20 @@ compute_power_range = (1.0, 10.0)  # 단위: GFLOPS
 
 # Generate profiles
 num_clients = 100
+straggler_ratio = 0.2  # 20% of clients will be stragglers
+straggler_count = int(num_clients * straggler_ratio)
+
 network_profiles = []
 device_profiles = []
 
 for i in range(num_clients):
     band = random.choice(bands)
+
+    if i < straggler_count:
+        mean_delay = round(random.uniform(1.0, 1.5), 4)  # straggler: high latency
+    else:
+        mean_delay = round(random.uniform(*band["mean_delay"]), 4)
+
     network_profiles.append({
         "client_id": i,
         "carrier_freq": band["carrier_freq"],
